@@ -21,7 +21,7 @@
             <property name="label" translatable="yes">label</property>
           </object>
           <packing>
-            <property name="x">67</property>
+            <property name="x">65</property>
             <property name="y">32</property>
           </packing>
         </child>
@@ -40,7 +40,7 @@
         </child>
         <child>
           <object class="GtkButton" id="btn_hello">
-            <property name="label" translatable="yes">button</property>
+            <property name="label" translatable="yes">Click Me</property>
             <property name="width_request">100</property>
             <property name="height_request">30</property>
             <property name="visible">True</property>
